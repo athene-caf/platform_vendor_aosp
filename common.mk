@@ -83,7 +83,8 @@ PRODUCT_PACKAGES += \
     WallpaperPicker \
     MusicFX \
     Gallery2 \
-    AudioFX
+    AudioFX \
+    Recorder
 
 # Telephony packages
 PRODUCT_PACKAGES += \
