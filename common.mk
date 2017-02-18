@@ -81,7 +81,9 @@ PRODUCT_PACKAGES += \
     strace \
     Terminal \
     WallpaperPicker \
-    MusicFX
+    MusicFX \
+    Gallery2 \
+    AudioFX
 
 # Telephony packages
 PRODUCT_PACKAGES += \
@@ -103,8 +105,7 @@ PRODUCT_PACKAGES += \
 
 # Snapdragon packages
 PRODUCT_PACKAGES += \
-    SnapdragonMusic \
-    SnapdragonGallery
+    SnapdragonMusic
 
 # Include explicitly to work around GMS issues
 PRODUCT_PACKAGES += \
